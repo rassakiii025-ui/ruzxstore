@@ -19,7 +19,7 @@
         });
 
         const copyrightName = "Ruzx / Mibras Sakhi";
-        const targetLink = "https://shop.ruzxstoreid.qzz.io";
+        const targetLink = "https://profile.ruzxstoreid.qzz.io";
         const year = new Date().getFullYear();
         const originalCopyrightHTML = `© Copyright <a href="${targetLink}" class="hover:text-gray-300 transition duration-200 no-underline" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">${copyrightName} ${year}</a>`;
 

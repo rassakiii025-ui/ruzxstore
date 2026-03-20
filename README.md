@@ -33,8 +33,30 @@ Dirancang agar mudah dibuka di browser, responsif, dan ringan.
    ```bash
    cd ruzxstore
 3. Buka index.html di browser favoritmu.
-   ```bash
-   Tidak perlu server tambahan, cukup buka langsung di browser.
+   > Tidak perlu server tambahan, cukup buka langsung di browser.
 
-```bash
-git clone https://github.com/rassakiii025-ui/ruzxstore.git
+---
+
+## 🌐 Fitur
+
+Website portofolio ini menampilkan:  
+
+- **Home / Welcome**  
+- **Tentang Saya / About**  
+- **Pendidikan**  
+- **Proyek / Portfolio**  
+- **Skills**  
+- **Contact / Hubungi**  
+
+Dengan animasi halus menggunakan AOS dan desain responsif.
+
+---
+
+## 📜 Lisensi
+
+Project ini dilisensikan dengan **MIT License**.  
+Silakan gunakan, modifikasi, dan sebarkan sesuai ketentuan MIT.
+
+---
+
+## ✨ Made by Ruzxstore

@@ -32,8 +32,8 @@ Dirancang agar mudah dibuka di browser, responsif, dan ringan.
 2. Masuk ke folder project:
    ```bash
    cd ruzxstore
-3. Buka index.html di browser favoritmu.
-   > Tidak perlu server tambahan, cukup buka langsung di browser.
+3. Edit index.html sesuai kebutuhanmu.
+   > `script.js` dan `style.css` tidak usah diubah agar terhindar dari error.
 
 ---
 
